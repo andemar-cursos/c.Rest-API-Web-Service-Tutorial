@@ -1,0 +1,27 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112-"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112B"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112Z"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112l"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+g	java:S112x"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÉóàØŞ0
+]
+java:S20957"GUse try-with-resources or close this "Statement" in a "finally" clause.(‹½»
+]
+java:S2095 "GUse try-with-resources or close this "Statement" in a "finally" clause.(‹½»
+e
+java:S2095t"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(—ÛóĞ
+e
+java:S2095R"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(—ÛóĞ
+l
+java:S2095c"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(—ÛóĞ8÷õàØŞ0
+Z
+java:S2147"DCombine this catch with the one at line 19, which has the same body.(ıàÑÎ
+H
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ
+L
+java:S6437"6Revoke and change this password, as it is compromised.(ò“å²
+Q	java:S125G"<This block of commented-out lines of code should be removed.(Ÿ¼é
+Q	java:S125J"<This block of commented-out lines of code should be removed.(•½Ù­
+V	java:S125\"<This block of commented-out lines of code should be removed.( ¡Ö›üÿÿÿÿ
